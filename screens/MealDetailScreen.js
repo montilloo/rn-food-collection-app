@@ -8,7 +8,6 @@ const MealDetailScreen = () => {
 				Meal Detail Screen
 			</Text>
 		</View>
-
 	);
 }
 
